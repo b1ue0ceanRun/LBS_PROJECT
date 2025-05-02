@@ -39,12 +39,3 @@ System Prompt？
 
 https://www.pillar.security/blog/new-vulnerability-in-github-copilot-and-cursor-how-hackers-can-weaponize-code-agents
 
-
-
-
-
-要看的：https://arxiv.org/pdf/2406.04031
-https://arxiv.org/pdf/2411.11496v3
-https://arxiv.org/pdf/2412.00473
-
-![[Pasted image 20250413052422.png]]

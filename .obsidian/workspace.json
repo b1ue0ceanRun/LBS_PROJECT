@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper reading/IFC设计.md",
+                "file": "Progress.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IFC设计"
+              "title": "Progress"
             }
           }
         ]
@@ -170,16 +170,32 @@
   },
   "active": "c37b43daa7e2cde8",
   "lastOpenFiles": [
-    "Pasted image 20250413052422.png",
-    "paper reading/什么是MCP？从安全角度考虑呢？.md",
-    "paper reading/IFC设计.md",
-    "imgs/Pasted image 20250408172236.png",
-    "Pasted image 20250408155755.png",
-    "paper reading/MCP协议漏洞防御.md",
-    "imgs",
-    "paper reading/IFC ML.md",
-    "imgs/Pasted image 20250408155328.png",
+    "imgs/Pasted image 20250502160808.png",
+    "Pasted image 20250502160822.png",
+    "imgs/Pasted image 20250502160950.png",
+    "Progress.md",
     "README.md",
-    "paper reading"
+    "paper reading/MCP协议漏洞防御.md",
+    "paper reading/IFC设计.md",
+    "paper reading/什么是MCP？从安全角度考虑呢？.md",
+    "paper reading/IFC ML.md",
+    "MCP_test/test1/__pycache__/build.cpython-311.pyc",
+    "MCP_test/test1/__pycache__",
+    "MCP_test/test1/build.py",
+    "MCP_test/test1",
+    "MCP_test/build.py",
+    "MCP_test",
+    "MasterMCP/utils/fastapi_mod.py",
+    "MasterMCP/tools_plugins/malicious_cross_mcp_call.py",
+    "MasterMCP/tools_plugins/malicious_competitive_function.py",
+    "MasterMCP/tools_plugins/inject_json_poisoning.py",
+    "MasterMCP/templates/evil.png",
+    "MasterMCP/README.md",
+    "MasterMCP-main/templates/evil.png",
+    "MasterMCP-main/README.md",
+    "imgs/Pasted image 20250408155328.png",
+    "imgs/Pasted image 20250408172236.png",
+    "imgs/Pasted image 20250413052422.png",
+    "Pasted image 20250408155755.png"
   ]
 }

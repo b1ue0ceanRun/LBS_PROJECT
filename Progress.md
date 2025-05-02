@@ -9,6 +9,10 @@ Our system aims to guarantee both confidentiality and integrity for the user's d
 We also discussed how to define the non-interference of information flow in LLM, and we came up with two ideas. The first one is the same as the classic non-interference definition, that is, whenever the secret data in LLM's data source has been changed, its answer to the same question of the user (with lower authority) should always be the same. But we think it's hard to define "the same answer" for LLMs, as the words they generate are always statistical but not deterministic. The other definition we came up with is simpler: that no matter what the user has asked, the LLM's answer doesn't contain any secret data. This definition is easier for implementation. For example, our monitor can reject LLM returning an answer with some secret data with a higher security label than the authority the user has, as the figure shows:
 
 We plan to add a filter layer between the tools (e.g., send email and RAG system) and the LLM to help us achieve non-interference of information flow in the LLM.
-![[./imgs/Pasted image 20250502160808.png]]
+<div style="border: 1px solid black; padding: 10px;">
+  <img src="imgs/Pasted image 20250502160808.png" alt="示例图片" width="600">
+</div>
 
-![[./imgs/Pasted image 20250502160950.png]]
+<div style="border: 1px solid black; padding: 10px;">
+  <img src="imgs/Pasted image 20250502160950.png" alt="示例图片" width="600">
+</div>

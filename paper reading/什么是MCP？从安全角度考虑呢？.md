@@ -17,12 +17,12 @@ So, definatly not secure.
 
 
 
-
-
-
-
 ## 参考
 - https://guangzhengli.com/blog/zh/model-context-protocol
 - https://modelcontextprotocol.io/introduction
-- 
+
+
+自动推理？？？
+这个很有意思
+https://aws.amazon.com/cn/blogs/aws/prevent-factual-errors-from-llm-hallucinations-with-mathematically-sound-automated-reasoning-checks-preview/
 

@@ -12,7 +12,22 @@ on
 如何trace information flow
 
 
-Information Flow 非干扰定义：
+## Information Flow 非干扰定义
 O.o
+<div style="border: 1px solid black; padding: 10px;">
+  <img src="imgs/Pasted image 20250503145115.png" alt="示例图片" width="500">
+</div>
 
-![[Pasted image 20250503145115.png]]
+
+## How to define it in LLM
+
+
+
+
+
+
+## How to implement?
+### guardrails
+I will read the source code for  https://invariantlabs.ai/blog/guardrails 
+
+Can if protect the evil data from outside?
